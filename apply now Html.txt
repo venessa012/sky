@@ -1,0 +1,364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Apply Now</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://skybankfinancial.com/wp-content/themes/poptheme2.0/style.css" />
+<style type="text/css">
+.write {	color: #06F;
+	font-weight: bold;
+}
+.skybank {color: #06F;
+	text-decoration: none;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+
+<script src="https://skybankfinancial.com/js/validate.js"></script>
+
+<script type="text/javascript">
+/**
+  * Basic jQuery Validation Form Demo Code
+  * Copyright Sam Deering 2012
+  * Licence: https://www.jquery4u.com/license/
+  */
+(function($,W,D)
+{
+    var JQUERY4U = {};
+
+    JQUERY4U.UTIL =
+    {
+        setupFormValidation: function()
+        {
+            //form validation rules
+            $("#leadform").validate({
+                rules: {
+                    last_name: "required",
+                 company: "required",
+                    email: {
+                        required: true,
+                        email: true
+                    },
+                    phone: {
+                        required: true,
+                        minlength: 10
+                    },
+                    agree: "required"
+                },
+                messages: {
+                    last_name: "Please enter your name",
+                    phone: {
+                        required: "Please enter your phone number",
+                        minlength: "Your phone must be at least 9 characters long"
+                    },
+                    email: "Please enter a valid email address",
+                    agree: "Please accept our policy"
+                },
+                submitHandler: function(form) {
+                    form.submit();
+                }
+            });
+        }
+    }
+
+    //when the dom has loaded setup form validation rules
+    $(D).ready(function($) {
+        JQUERY4U.UTIL.setupFormValidation();
+    });
+
+})(jQuery, window, document);
+</script>
+
+
+</head>
+
+<body class="apply-now">
+
+<div id="top-bar" style="display:none">
+	<div class="container">
+		<div class="row">
+			<p class="text-right">Speak to a SkyBank Consultant Today: 800-718-0446 &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Contact Us</a> &nbsp;&nbsp;| &nbsp;&nbsp;<a href="#"><span class="glyphicon glyphicon-log-in"></span>&nbsp;&nbsp;SkyBank Gateway Login</a></p>
+		</div>
+	</div><!-- container -->
+</div><!-- #top-bar -->
+
+
+	<div class="container top">
+	  <div class="col-lg-8 col-md-9">
+	    <nav class="navbar-default row" role="navigation">
+	      <!-- Brand and toggle get grouped for better mobile display -->
+	      <div class="navbar-header">
+	        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button>
+          </div>
+	      <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"><img src="file:///D|/New folder/SKY BANK WEBSITE/home.png" alt="" width="383" height="108" />
+	        <h3 class="text-muted"><a href="Home.html">HOME</a> | <a href="services.html">SERVICE</a> | <a href="apply now.html">APPLY NOW </a>| <a href="About us.html">ABOUT US</a> | <a href="contact us.html">CONTACT US </a></h3>
+          </div>
+        </nav>
+      </div>
+	  <div class="col-lg-7 col-md-8">
+	    <p class="phone-top pull-right"><span>CALL NOW</span><br/>
+	      1-800-718-0446</p>
+	    <div class="clearfix"></div>
+	    <ul id="lang" class="pull-right">
+	      <li><a href="https://skybankfinancial.com/apply-now.php">English</a></li>
+	      <li><a href="https://skybankfinancial.com/applynow-es.php">Espa&#241;ol</a></li>
+        </ul>
+	    <div id="contact_form_wrap3">
+	      <table width="1100" height="364" border="0">
+	        <tr>
+	          <td colspan="3" class="skybank"><p><strong>Already
+	            <!-- Contact Form -->
+	            Have An Account. Sign In Now</strong></p></td>
+	          <td>&nbsp;</td>
+	          <td colspan="4"><div align="center">
+	            <p class="skybank"><strong>Don't Have An Account? Sign Up Now For Free! </strong></p>
+	            <p class="skybank"><strong>New Member </strong></p>
+	            </div></td>
+            </tr>
+	        <tr>
+	          <td><strong class="skybank">Email:</strong></td>
+	          <td><input  id="email" maxlength="80" name="email3" class="form_input" type="text" /></td>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td colspan="4"><div align="center"><strong class="skybank">Last Name: </strong>
+	            <input  id="last_name" maxlength="80" name="last_name" class="form_input" type="text" />
+	            </div></td>
+            </tr>
+	        <tr>
+	          <td height="42"><strong class="skybank">Password:</strong></td>
+	          <td><input  id="password2" maxlength="80" name="password2" class="form_input" type="password" /></td>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td colspan="4"><div align="center"><strong class="skybank">First Name:</strong>
+	            <input  id="first_name2" maxlength="80" name="first_name2" class="form_input" type="text" />
+	            </div></td>
+            </tr>
+	        <tr>
+	          <td>&nbsp;</td>
+	          <td><form id="form3" method="post" action="">
+	            <p align="center"><img src="../sky bank - Copy/sky bank website/LOG IN BOTTON.fw.png" alt="" width="101" height="48" /></p>
+	            </form></td>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td colspan="4"><div align="center"><strong class="skybank">Phone:</strong>
+	            <input  id="phone2" maxlength="40" name="phone2" class="form_input" type="text" />
+	            </div></td>
+            </tr>
+	        <tr>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td colspan="4"><div align="center"><strong class="skybank">Email: </strong>
+	            <input  id="email" maxlength="80" name="email3" class="form_input" type="text" />
+	            </div></td>
+            </tr>
+	        <tr>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td colspan="4"><div align="center"><strong><span class="skybank">Password: </span></strong>
+	            <input  id="password2" maxlength="80" name="password2" class="form_input" type="password" />
+	            </div></td>
+            </tr>
+	        <tr>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td>&nbsp;</td>
+	          <td><form id="form4" method="post" action="">
+	            <p align="center">&nbsp;</p>
+	            </form></td>
+	          <td><div align="center"><img src="../sky bank - Copy/sky bank website/sign up botton.fw.png" alt="" width="200" height="50" /></div></td>
+	          <td>&nbsp;</td>
+            </tr>
+          </table>
+        </div>
+	    <p>&nbsp;</p>
+      </div>
+	  <!-- .col-md-5 -->
+
+			<!-- <div class="clearfix"></div> --><!-- .col-md-7 -->
+		
+				
+</div>
+	<!-- .container -->
+
+
+<div class="container main">
+
+<div class="col-md-8">
+
+	<img class="img-responsive" src="https://www.skybankfinancial.com/wp-content/themes/poptheme2.0/images/apply-now-banner.jpg"/>
+	
+<h2>Tired of paying too much for payment processing?  Take the SkyBank challenge today!  If we can't save you money we will send you a FREE TABLET!!</h2>
+
+<p><strong>Simple. Reliable. Secure.</strong>  SkyBank is the leader in electronic payment processing for small, mid-sized and institutional companies in the United States. Our secure solution enables companies to easily conduct transactions with credit cards, debit cards, ACH debit services, and a variety of other services.   With hundreds of millions of dollars processed annually through our payment partner network, we have consistently proven that our clients benefit from using our secure technology.</p>
+
+
+<h3>As a valued SkyBank client, you will receive the following great benefits:</h3>
+
+<ul class="orange">
+	<li>Lowest Rate Lifetime Guarantee for the life of your account!</li>
+	<li>FREE SkyBank Gateway ($400 Value) enabled with all of the following state-of-the-art features:</li>
+		<ul>
+			<li>User friendly virtual terminal</li>
+			<li>Automated recurring billing system</li>
+			<li>Robust reporting</li>
+			<li>Hosted payments page (Click Here to Pay Now Button)</li>
+			<li>Smartphone or Table Mobile Card Readers</li>
+			<li>Advanced Fraud Control Suite</li>
+		</ul>
+</ul>
+
+<ul>
+	<li>Improve cash flow with 12 HOUR FUNDING for Visa, MasterCard, Discover & American Express</li>
+	<li>Highest rated in-house first call problem resolution customer support</li>
+	<li>Assistance in getting your share of the $7.25 Billion Settlement</li>
+</ul>
+
+	
+</div><!-- .col-md-8 -->
+
+<div class="col-md-4">
+  <div id="contact_form_wrap2">
+    <form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="post" id="salesforce2" class="footer-form">
+      <h2 class="text-center">Contact us today for a free quote</h2>
+      <fieldset>
+        <input type="hidden" name="oid" value="00DA0000000HLYJ" />
+        <input type="hidden" name="retURL" value="https://www.skybankfinancial.com/thanks" />
+        <input type="hidden" name="Referred_By__c" value="SEO - SkyBank Financial" />
+        <input type="hidden" name="Lead_ID__c" value="Footer" />
+        <!--  ----------------------------------------------------------------------  -->
+        <!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+        <!--  these lines if you wish to test in debug mode.                          -->
+        <!--  <input type="hidden" name="debug" value=1>                              -->
+        <!--  <input type="hidden" name="debugEmail"                                  -->
+        <!--  value="taronica@skybankfinancial.com">                                  -->
+        <!--  ----------------------------------------------------------------------  -->
+        <div class="col-md-3 col-sm-6" style="text-align:center;">
+          <input  id="company" maxlength="40" name="company" class="form_input wpcf7-text" type="text" placeholder="Company Name" />
+          <br/>
+        </div>
+        <div class="col-md-3 col-sm-6" style="text-align:center;">
+          <input id="last_name2" maxlength="80" name="last_name2" class="form_input wpcf7-text" type="text" placeholder="Name"  />
+          <br/>
+        </div>
+        <div class="col-md-3 col-sm-6" style="text-align:center;">
+          <input  id="phone" maxlength="40" name="phone" class="form_input wpcf7-text" type="text" class="Phone" placeholder="Phone"/>
+          <br/>
+        </div>
+        <div class="col-md-3 col-sm-6" style="text-align:center;">
+          <input  id="email2" maxlength="80" name="email" class="form_input wpcf7-text" type="text" placeholder="Email" />
+          <br/>
+        </div>
+        <!-- <select  name="industry"  id="industry" class="form_select"><option  value="Business Type">Select</option><option value="Retail">Retail</option><option  value="Wholesale">Wholesale</option><option  value="Home-Based">Home-Based</option><option  value="Mail Order">Mail Order</option><option  value="Telephone Order">Telephone Order</option><option  value="Internet">Internet</option><option  value="E-Commerce">E-Commerce</option><option  value="Restaurant">Restaurant</option><option  value="High Risk">High Risk</option><option  value="Service Industry">Service Industry</option><option  value="Wireless">Wireless</option><option  value="Other">Other</option></select><br/> -->
+        <div class="clearfix"></div>
+        <!-- .clear -->
+        <input name="button" type="submit" id="button" value="Request Quote" />
+      </fieldset>
+    </form>
+    <h3>&nbsp;</h3>
+  </div>
+  <!-- 3. End Contact Form -->		
+
+<div class="right-box">
+	<h4>SkyBank Accounts Include</h4>
+	
+	<ul>
+		<li>No Application or Setup Fees</li>
+		<li>Same-Day Approvals</li>
+		<li>Personalized Account Representative</li>
+		<li>Dedicated In-House Customer Support</li>
+		<li>Next Day Funding for all Card Types</li>
+		<li>Free Virtual Terminal</li>
+		<li>Free Chargeback Resolution</li>
+		<li>Free Online Account Manager</li>
+	</ul>
+</div><!-- .right-box -->
+
+</div>
+
+
+
+		  <div class="clearfix"></div>
+		  
+		  <p class="disclaimer" style="text-align:center;font-size:9px;"><em>**Free offer applies to new clients only and must be accompanied by a 3 year contract with a $500 early termination fee. Credit approval of merchant account required and is based on the processing bank's underwriting requirements. Your merchant account is subject to the terms and conditions of the Merchant Services Program Guide.  Other terms and conditions may apply.  For program details, speak to a representative.</em></p>
+
+</div><!-- .container -->
+
+
+<footer>
+	<div class="container">
+	
+		<p class="heading">Speak to a SkyBank Consultant.</p>
+			
+		<div class="col-md-3 col-sm-6">
+			<p class="foot-contact phone"><span>Toll Free:</span><br/>1-800-718-0446</p>	
+		</div><!--colmd3-->
+		
+		<div class="col-md-3 col-sm-6">
+			<p class="foot-contact fax"><span>Fax:</span><br/>1-800-958-4250</p>	
+		</div><!--colmd3-->
+		
+		<div class="col-md-3 col-sm-6">
+			<p class="foot-contact email"><span>Email Us:</span><br/>
+			  <a href="mailto:info@skybankfinancial.com">info@skybankfinancial.com</a>		</p>
+		</div>
+		<!--colmd3-->
+
+		<div class="col-md-3 col-sm-6">
+			<p class="heading">Find us on the web</p>	
+			<ul id="social">
+				<li id="fb"><a href="https://www.facebook.com/skybankfinancial" target="_blank" rel="nofollow"></a></li>
+				<li id="tw"><a href="https://twitter.com/lowercardfees" target="_blank" rel="nofollow"></a></li>
+				<li id="lk"><a href="#" target="_blank" rel="nofollow"></a></li>
+			</ul>
+		</div><!--colmd3-->
+		
+			<div class="clearfix"></div><!-- .clear -->
+	
+		
+
+					<ul class="xoxo">
+						<li id="nav_menu-2" class="widget-container widget_nav_menu"><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item menu-item-34"></li>
+						</ul>
+	  </div></li>					</ul>
+
+
+
+		
+			<p id="copy">SkyBank  is a registered ISO / MSP of Wells Fargo Bank N.A., Walnut Creek, CA.
+American Express may require separate authorization.<br/>
+&copy; Copyright 2005 - 2014. SkyBank. <br/>
+Developed By: <a href="https://www.popcreative.net/" target="_blank" rel="nofollow">Pop Creative Group</a></p>		
+
+		
+
+				
+		
+  </div><!--colmd12-->
+
+		
+	</div><!-- .container -->
+</footer>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27604309-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>

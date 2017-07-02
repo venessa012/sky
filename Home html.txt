@@ -1,0 +1,507 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>SkyBank Financial | Credit Card Processing Miami</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="https://skybankfinancial.com/wp-content/themes/poptheme2.0/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://skybankfinancial.com/wp-content/themes/poptheme2.0/style2.css" />
+<link rel="pingback" href="https://skybankfinancial.com/xmlrpc.php" />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SkyBank Financial &raquo; Feed" href="https://skybankfinancial.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SkyBank Financial &raquo; Comments Feed" href="https://skybankfinancial.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="SkyBank Financial &raquo; Home Comments Feed" href="https://skybankfinancial.com/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/skybankfinancial.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+        </style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://skybankfinancial.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://skybankfinancial.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://skybankfinancial.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://skybankfinancial.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://skybankfinancial.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://skybankfinancial.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel="canonical" href="https://skybankfinancial.com/" />
+<link rel='shortlink' href='https://skybankfinancial.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://skybankfinancial.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskybankfinancial.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://skybankfinancial.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskybankfinancial.com%2F&#038;format=xml" />
+<style type="text/css">
+.write {	color: #06F;
+	font-weight: bold;
+}
+</style>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/js/bootstrap.js"></script>
+</head>
+
+<body class="home page-template page-template-page-home page-template-page-home-php page page-id-5">
+
+<div id="top-bar" style="display:none">
+	<div class="container">
+		<div class="row">
+			<p class="text-right">Speak to a SkyBank Consultant Today: 800-718-0446 &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Contact Us</a> &nbsp;&nbsp;| &nbsp;&nbsp;<a href="#"><span class="glyphicon glyphicon-log-in"></span>&nbsp;&nbsp;SkyBank Gateway Login</a></p>
+		</div>
+	</div><!-- container -->
+</div><!-- #top-bar -->
+
+<div id="top-shadow">
+
+	<div class="container top"><!-- .col-md-5 -->
+	
+			<!-- <div class="clearfix"></div> -->
+			<div class="col-lg-8 col-md-9">
+			  <nav class="navbar-default row" role="navigation">
+			    <!-- Brand and toggle get grouped for better mobile display -->
+			    <div class="navbar-header">
+			      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button>
+		        </div>
+			    <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"><img src="file:///D|/New folder/SKY BANK WEBSITE/home.png" alt="" width="383" height="108" />
+			      <h3 class="text-muted"><a href="Home.html">HOME</a> | <a href="services.html">SERVICE</a> | <a href="apply now.html">APPLY NOW </a>| <a href="About us.html">ABOUT US</a> | <a href="contact us.html">CONTACT US </a></h3>
+		        </div>
+		      </nav>
+	  </div>
+			<!-- .col-md-7 -->
+			
+  </div><!-- .container -->
+	
+</div><!-- #top-shadow -->
+<script type="text/javascript">
+/**
+  * Basic jQuery Validation Form Demo Code
+  * Copyright Sam Deering 2012
+  * Licence: https://www.jquery4u.com/license/
+  */
+(function($,W,D)
+{
+    var JQUERY4U = {};
+
+    JQUERY4U.UTIL =
+    {
+        setupFormValidation: function()
+        {
+            //form validation rules
+            $("#salesforce").validate({
+                rules: {
+                    company_name: "required",
+                    email: {
+                        required: true,
+                        email: true
+                    },
+                    last_name: "required",
+                    email: {
+                        required: true,
+                        email: true
+                    },
+                    phone: {
+                        required: true,
+                        minlength: 10
+                    },
+                    agree: "required"
+                },
+                messages: {
+                    company_name: "Please enter your company name",
+                    last_name: "Please enter your name",
+                    phone: {
+                        required: "Please enter your phone number",
+                        minlength: "Your phone must be at least 9 characters long"
+                    },
+                    email: "Please enter a valid email address",
+                    agree: "Please accept our policy"
+                },
+                submitHandler: function(form) {
+                    form.submit();
+                }
+            });
+        }
+    }
+
+    //when the dom has loaded setup form validation rules
+    $(D).ready(function($) {
+        JQUERY4U.UTIL.setupFormValidation();
+    });
+
+})(jQuery, window, document);
+</script>
+
+
+<div class="banner">
+
+	<div class="container">
+			<div class="col-md-8 col-sm-7 rates"> <a href="Home.html"><img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-banner-left.png" /></a>					
+			</div><!-- banner left -->
+			<div class="col-md-4 col-sm-5 hidden-xs">
+
+				<form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST" id="salesforce" class="wpcf7">
+				
+				<h2 class="text-center">Request A FREE Quote</h2>
+				<h3 class="text-center">1-800-718-0446</h3>
+				
+				<fieldset>
+				
+				<input type=hidden name="oid" value="00DA0000000HLYJ">
+				<input type=hidden name="retURL" value="https://www.skybankfinancial.com/thanks">
+				<input type=hidden name="Referred_By__c" value="SEO - SkyBank Financial">
+				<input type=hidden name="Lead_ID__c" value="Home Page">
+				
+				
+				<!--  ----------------------------------------------------------------------  -->
+				<!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+				<!--  these lines if you wish to test in debug mode.                          -->
+				<!--  <input type="hidden" name="debug" value=1>                              -->
+				<!--  <input type="hidden" name="debugEmail"                                  -->
+				<!--  value="taronica@skybankfinancial.com">                                  -->
+				<!--  ----------------------------------------------------------------------  -->
+
+				<input  id="company" maxlength="40" name="company_name" class="form_input wpcf7-text" type="text" placeholder="Company Name" /><br/>
+				
+				<div class="col-md-6 left">
+				<input id="last_name" maxlength="80" name="last_name" class="form_input wpcf7-text" type="text" placeholder="Name"  /><br/>
+				</div>
+
+				<div class="col-md-6 right">
+				<input  id="phone" maxlength="40" name="phone" class="form_input wpcf7-text" type="text" class="Phone" placeholder="Phone"/><br/>
+				</div>
+				
+					<div class="clearfix"></div><!-- .clearfix -->
+					
+				<input  id="email" maxlength="80" name="email" class="form_input wpcf7-text" type="text" placeholder="Email" /><br/>
+											
+				<!-- <select  name="industry"  id="industry" class="form_select"><option  value="Business Type">Select</option><option value="Retail">Retail</option><option  value="Wholesale">Wholesale</option><option  value="Home-Based">Home-Based</option><option  value="Mail Order">Mail Order</option><option  value="Telephone Order">Telephone Order</option><option  value="Internet">Internet</option><option  value="E-Commerce">E-Commerce</option><option  value="Restaurant">Restaurant</option><option  value="High Risk">High Risk</option><option  value="Service Industry">Service Industry</option><option  value="Wireless">Wireless</option><option  value="Other">Other</option></select><br/> -->
+										
+				<input type="submit" name="submit" id="submit" class="form_btn wpcf7-submit" value="Request Quote">
+				
+				</fieldset>
+				</form>
+				
+			</div><!-- banner right -->
+				<div class="clearfix"></div><!-- .clearfix -->
+	</div><!-- .container -->
+		
+	<!-- <img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-banner.jpg" /> -->
+	
+</div><!-- .banner -->
+
+			<div class="container home-icons">
+				<h2 class="text-center" style="padding-bottom:30px;">More Than Just Payments</h2>
+				
+				
+				
+					<div class="col-md-15 col-sm-4 col-xs-4"> <a href="credit card and debit prces.html"><img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-icon1.jpg" />
+						  </a>
+					  <p class="text-center"><a href="credit card and debit prces.html"><strong>Credit Card Processing</strong></a></p>
+					  
+					</div><!-- .col 2 -->
+					<div class="col-md-15 col-sm-4 col-xs-4"> <a href="Electronic checks.html"><img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-icon2.jpg" />
+				    </a>
+					  <p class="text-center"><a href="Electronic checks.html"><strong>Electronic Checks & ACH</strong></a></p>
+					  
+					</div><!-- .col 2 -->
+					<!--div class="col-md-2 col-sm-4 col-xs-4">
+															<a href="https://skybankfinancial.com?page_id=37">
+
+						<img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-icon3.jpg" />
+							<p class="text-center"><strong>In-House Consumer Financing Programs</strong></p>
+							
+							</a>
+					</div><!-- .col 2 -->
+					
+					
+					
+					
+					<div class="col-md-15 col-sm-4 col-xs-4">
+					
+																				<a href="https://skybankfinancial.com?page_id=67">
+
+						<img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-icon4.jpg" />
+					  </a>
+					  <p class="text-center"><a href="Business loans.html"><strong>Small Business Loans</strong></a><strong></strong></p>
+							
+				    </div><!-- .col 2 -->
+					<div class="col-md-15 col-sm-4 col-xs-4">
+																									<a href="https://skybankfinancial.com?page_id=63">
+
+						<img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-icon5.jpg" />																									</a>
+																									<p class="text-center"><a href="Gift cards.html"><strong>Gift Card & Loyalty Programs</strong></a></p>
+				    </div><!-- .col 2 -->
+					<div class="col-md-15 col-sm-4 col-xs-4"> <a href="Prepaid debit card programs.html"><img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-icon6.jpg" />
+				    </a>
+					  <p class="text-center"><a href="Prepaid debit card programs.html"><strong>Prepaid Card Programs</strong></a><strong></strong></p>
+							
+					</div><!-- .col 2 -->
+					
+					
+					
+					
+						<div class="clearfix"></div><!-- .clear -->
+				
+				<h2 class="text-center" style="padding:40px 0 20px 0">Lifetime Lowest Rate Guarantee</h2>
+				
+				<p class="text-center btm">SkyBank Financial ensures the most competitive pricing through our Lifetime Lowest Rate Guarantee. <br/>WE WILL MEET OR BEAT ANY VALID OFFER OR PAY FOR YOU TO SWITCH.</p>
+</div><!-- .container -->
+			
+			<div id="home-ipad-offer">
+				<div class="col-md-5 col-sm-5"> <a href="apply now.html"><img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-ipad-offer.png" /></a>
+              </div>
+					<div class="col-md-7 col-sm-7 hidden-xs"> <a href="apply now.html"><img src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-table.png" class="img-responsive" /></a>				
+					</div>
+						<div class="clearfix"></div><!-- .clearfix -->
+			</div><!-- #ipad offer -->
+						
+
+
+			<div id="lower-cols" class="container">
+				<div class="col-md-3 col-sm-3 col-xs-6">
+					<img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-col1.jpg" />
+						<p class="heading">Online Services</p>
+							<ul>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=86">SkyBank Gateway</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=95">PCI Compliance</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://quickclick.com/r/mth9t">Make a Payment</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.learnernation.com/login" target="_blank">Learning Center</a></li>
+							</ul>									
+				</div>
+				<div class="col-md-3 col-sm-3 col-xs-6">
+					<img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-col2.jpg" />
+						<p class="heading">Merchant Services</p>
+							<ul>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=44">Payment Processing</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=47">Electronic Check</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/services/prepaid-debit-cards/">Prepaid Card Programs</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=67">Small Business Loans</a></li>
+							</ul>									
+				</div>
+				<div class="col-md-3 col-sm-3 col-xs-6">
+					<img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-col3.jpg" />
+						<p class="heading">Partner Program</p>
+							<ul>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=82">Developers</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=105">Banks & Credit Unions</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=109">Referral Partners</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=111">Software Partners</a></li>
+							</ul>									
+				</div>
+				<div class="col-md-3 col-sm-3 col-xs-6">
+					<img class="img-responsive" src="https://skybankfinancial.com/wp-content/themes/poptheme2.0/images/home-col4.jpg" />
+						<p class="heading">Corporate Overview</p>
+							<ul>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=21">About Us</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=113">Executive Team</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="#">Niche Specialties</a></li>
+								<li><span class="glyphicon glyphicon-play">&nbsp;</span><a href="https://skybankfinancial.com/?page_id=27">Blog</a></li>
+							</ul>									
+				</div>
+					<div class="clearfix"></div><!-- .clear -->
+			</div><!-- lower columns -->
+
+
+<div class="gray">
+
+<div class="container">
+
+				<form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST" id="salesforce2" class="footer-form">
+				
+				<h2 class="text-center">Contact us today for a free quote</h2>
+				
+				<fieldset>
+				
+				<input type=hidden name="oid" value="00DA0000000HLYJ">
+				<input type=hidden name="retURL" value="https://www.skybankfinancial.com/thanks">
+						<input type=hidden name="Referred_By__c" value="SEO - SkyBank Financial">
+				<input type=hidden name="Lead_ID__c" value="Footer">
+				
+
+				
+				
+				<!--  ----------------------------------------------------------------------  -->
+				<!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+				<!--  these lines if you wish to test in debug mode.                          -->
+				<!--  <input type="hidden" name="debug" value=1>                              -->
+				<!--  <input type="hidden" name="debugEmail"                                  -->
+				<!--  value="taronica@skybankfinancial.com">                                  -->
+				<!--  ----------------------------------------------------------------------  -->
+
+			<div class="col-md-3 col-sm-6" style="text-align:center;">
+				<input  id="company" maxlength="40" name="company" class="form_input wpcf7-text" type="text" placeholder="Company Name" /><br/>
+			</div>
+			
+			<div class="col-md-3 col-sm-6" style="text-align:center;">
+				<input id="last_name" maxlength="80" name="last_name" class="form_input wpcf7-text" type="text" placeholder="Name"  /><br/>
+			</div>
+			
+			<div class="col-md-3 col-sm-6" style="text-align:center;">
+				<input  id="phone" maxlength="40" name="phone" class="form_input wpcf7-text" type="text" class="Phone" placeholder="Phone"/><br/>
+			</div>
+			
+			<div class="col-md-3 col-sm-6" style="text-align:center;">						
+				<input  id="email" maxlength="80" name="email" class="form_input wpcf7-text" type="text" placeholder="Email" /><br/>
+			</div>								
+				<!-- <select  name="industry"  id="industry" class="form_select"><option  value="Business Type">Select</option><option value="Retail">Retail</option><option  value="Wholesale">Wholesale</option><option  value="Home-Based">Home-Based</option><option  value="Mail Order">Mail Order</option><option  value="Telephone Order">Telephone Order</option><option  value="Internet">Internet</option><option  value="E-Commerce">E-Commerce</option><option  value="Restaurant">Restaurant</option><option  value="High Risk">High Risk</option><option  value="Service Industry">Service Industry</option><option  value="Wireless">Wireless</option><option  value="Other">Other</option></select><br/> -->
+				
+			<div class="clearfix"></div><!-- .clear -->
+									
+				<input type="submit" name="submit" id="submit" class="form_btn wpcf7-submit" value="Request Quote">
+				
+				</fieldset>
+				</form>
+	
+</div><!-- .container -->
+
+</div><!--gray-->
+<footer>
+	<div class="container">
+	
+		<p class="heading">Speak to a SkyBank Consultant Today.</p>
+			
+		<div class="col-md-3 col-sm-6 col-xs-12">
+			<p class="foot-contact phone"><span>Toll Free:</span><br/>1-800-718-0446</p>	
+		</div><!--colmd3-->
+		
+		<div class="col-md-3 col-sm-6 col-xs-12">
+			<p class="foot-contact fax"><span>Fax:</span><br/>1-800-958-4250</p>	
+		</div><!--colmd3-->
+		
+		<div class="col-md-3 col-sm-6 col-xs-12">
+			<p class="foot-contact email"><span>Email Us:</span><br/><a href="mailto:info@skybankfinancial.com">info@skybankfinancial.com</a></p>
+		</div><!--colmd3-->
+
+		<div class="col-md-3 col-sm-6 col-xs-12">
+			<p class="heading">Find us on the web</p>	
+			<ul id="social">
+				<li id="fb"><a href="https://www.facebook.com/skybankfinancial" target="_blank" rel="nofollow"></a></li>
+				<li id="tw"><a href="https://twitter.com/lowercardfees" target="_blank" rel="nofollow"></a></li>
+				<li id="lk"><a href="https://www.linkedin.com/company/skybank-financial" target="_blank" rel="nofollow"></a></li>
+			</ul>
+		</div><!--colmd3-->
+		
+			<div class="clearfix"></div><!-- .clear -->
+	
+		
+
+					<ul class="xoxo">
+	  <li id="nav_menu-2" class="widget-container widget_nav_menu"><div class="menu-footer-container"></div></li>					</ul>
+
+
+
+		
+			<p id="copy">SkyBank  is a registered ISO of Wells Fargo Bank N.A., Walnut Creek, CA.
+American Express may require separate authorization.<br/>
+&copy; Copyright 2005 - 2017. SkyBank. <br/>
+Developed By: <a href="http://www.popcreative.net/" target="_blank" rel="nofollow">pop creative group</a><br/><br/>
+
+<span id="siteseal"><script type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=iFJWs3AtPPzsM9gL1Zd2KLOnucLe0s4l9W9mJXFzKzKQi0i50OJI"></script></span>
+
+
+</p>		
+
+		
+		<script type='text/javascript' src='https://skybankfinancial.com/wp-includes/js/comment-reply.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://skybankfinancial.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/skybankfinancial.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://skybankfinancial.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.2'></script>
+<script type='text/javascript' src='https://skybankfinancial.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+		
+		
+  </div><!--colmd12-->
+
+		
+	</div><!-- .container -->
+</footer>
+
+<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+<script type="text/javascript">
+/**
+  * Basic jQuery Validation Form Demo Code
+  * Copyright Sam Deering 2012
+  * Licence: http://www.jquery4u.com/license/
+  */
+(function($,W,D)
+{
+    var JQUERY4U = {};
+
+    JQUERY4U.UTIL =
+    {
+        setupFormValidation: function()
+        {
+            //form validation rules
+            $("#salesforce2").validate({
+                rules: {
+                    last_name: "required",
+                 company: "required",
+
+                    email: {
+                        required: true,
+                        email: true
+                    },
+                    phone: {
+                        required: true,
+                        minlength: 10
+                    },
+                    agree: "required"
+                },
+                messages: {
+                    last_name: "Please enter your name",
+                    phone: {
+                        required: "Please enter your phone number",
+                        minlength: "Your phone must be at least 9 characters long"
+                    },
+                    email: "Please enter a valid email address",
+                    agree: "Please accept our policy"
+                },
+                submitHandler: function(form) {
+                    form.submit();
+                }
+            });
+        }
+    }
+
+    //when the dom has loaded setup form validation rules
+    $(D).ready(function($) {
+        JQUERY4U.UTIL.setupFormValidation();
+    });
+
+})(jQuery, window, document);
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27604309-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</body>
+</html>
